@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Akshat
-- 👀 I’m interested in Problem solving & music, i'm an independent artist, singer, songwritter and a software developer.
-- 🌱 I’m currently learning Vert.x
+- Competitive Programmer.
+- I loves Problem solving and logic building.
+- Currently working in TCS as mid-range developer.
+- SpringBoot(Java Developer).
 
 - 📫 How to reach me ... akshatsinha54@gmail.com
 
