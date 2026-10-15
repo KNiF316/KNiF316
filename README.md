@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akshat
 - Competitive Programmer.
 - I loves Problem solving and logic building.
-- Currently working in TCS as mid-range developer.
-- SpringBoot(Java Developer).
+
+
 
 - 📫 How to reach me ... akshatsinha54@gmail.com
 
