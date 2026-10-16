@@ -108,7 +108,7 @@ mantra: "Bridging the precision of logic with the rhythm of creativity."
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Akshat Sinha Portfolio** | `HTML5` `CSS3` `JavaScript` `GSAP` `Highway.js` | Interactive, cinematic portfolio showcasing vocal releases, Studio Goonj, and software engineering ventures. | [Demo](https://akshatsinha.me) • [Source](https://github.com/KNiF316) |
+| 🌐 **Akshat Sinha Portfolio** | `HTML5` `CSS3` `JavaScript` `GSAP` `Highway.js` | Interactive, cinematic portfolio showcasing vocal releases, Studio Goonj, and software engineering ventures. | [Portfolio](https://akshatsinha-nu.vercel.app/) • [Source](https://github.com/KNiF316) |
 | ⚡ **Eclipse Vert.x Reactive Service** | `Java` `Vert.x` `Microservices` `Reactive` | High-throughput, non-blocking standalone unit conversion application leveraging event loops and event bus messaging. | [Repo](https://github.com/KNiF316/Vert.x-projects) |
 | 🍃 **Spring Boot Architecture** | `Java` `Spring Boot` `REST APIs` `JPA/Hibernate` | Enterprise-grade backend services with structured layered design, data persistence, and scalable endpoints. | [Repo](https://github.com/KNiF316/SpringBoot) |
 | 🐍 **Django Project - Blog** | `Python` `Django` `SQLite/PostgreSQL` `Bootstrap` | Full-featured blog web application with user authentication, profile handling, and dynamic content publishing. | [Repo](https://github.com/KNiF316/Django-Project-Blog) |
